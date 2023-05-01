@@ -22,7 +22,10 @@ fun getMovies (): List<Movie>{
             "Vasilis Avlonitis, Takis Miliadis, etc",
             "A spirited wife tries to keep her husband's matchmaking and introduction agency afloat--while in the meantime--her daughter is ready to walk down the aisle with an affluent young heir. Have they struck gold or is this a beautiful dream?",
             "https://m.media-amazon.com/images/M/MV5BZTE2YTU1ZjAtM2RlNy00ZTJlLTg3ZjEtNmQwZDE0MTBjYzNlXkEyXkFqcGdeQXVyNDE5MTU2MDE@.",
-            listOf("xxxximmages","xxxximmages"),
+            images =listOf("https://m.media-amazon.com/images/M/MV5BODcxMzhkODktYWI5MC00YzE0LWE1ZTEtZjE2ODQ5NzYxOTQzXkEyXkFqcGdeQXVyMjI0MjMwMzQ@.",
+                "https://m.media-amazon.com/images/M/MV5BMTA3YTQ3N2ItMGQ4NS00MjFjLTgxNjEtMTYxN2Q4ZWEzZjdlXkEyXkFqcGdeQXVyMzU0NzkwMDg@.",
+                "https://m.media-amazon.com/images/M/MV5BMTQwMDY1MDMzMV5BMl5BanBnXkFtZTgwMTQ3Njg1MTE@.",
+                "https://m.media-amazon.com/images/M/MV5BMWRiN2RlYzItNzE4Ni00MzNlLThkMGUtNTVkYTgzYjhkZjY4XkEyXkFqcGdeQXVyMTIxMzMzMzE@."),
             "4.9"),
 
         Movie(
@@ -34,7 +37,10 @@ fun getMovies (): List<Movie>{
             "Tuija Halonen, Siiri Angerkoski, Kalle Viherpuu",
             "Add a Plot",
             "https://m.media-amazon.com/images/M/MV5BNDMxYzVlMWQtMmFkOC00NmNmLTg5MGQtOTNkOTRkMWRiOTdlXkEyXkFqcGdeQXVyMTIxMzMzMzE@.",
-            listOf("xxxximmages","xxxximmages"),
+            images = listOf("https://m.media-amazon.com/images/M/MV5BODcxMzhkODktYWI5MC00YzE0LWE1ZTEtZjE2ODQ5NzYxOTQzXkEyXkFqcGdeQXVyMjI0MjMwMzQ@.",
+                "https://m.media-amazon.com/images/M/MV5BMTA3YTQ3N2ItMGQ4NS00MjFjLTgxNjEtMTYxN2Q4ZWEzZjdlXkEyXkFqcGdeQXVyMzU0NzkwMDg@.",
+                "https://m.media-amazon.com/images/M/MV5BMTQwMDY1MDMzMV5BMl5BanBnXkFtZTgwMTQ3Njg1MTE@.",
+                "https://m.media-amazon.com/images/M/MV5BMWRiN2RlYzItNzE4Ni00MzNlLThkMGUtNTVkYTgzYjhkZjY4XkEyXkFqcGdeQXVyMTIxMzMzMzE@."),
             "5.9"
         ),
                 Movie(
@@ -46,7 +52,10 @@ fun getMovies (): List<Movie>{
         "Vasilis Avlonitis, Takis Miliadis, etc",
         "A spirited wife tries to keep her husband's matchmaking and introduction agency afloat--while in the meantime--her daughter is ready to walk down the aisle with an affluent young heir. Have they struck gold or is this a beautiful dream?",
         "https://m.media-amazon.com/images/M/MV5BZTE2YTU1ZjAtM2RlNy00ZTJlLTg3ZjEtNmQwZDE0MTBjYzNlXkEyXkFqcGdeQXVyNDE5MTU2MDE@.",
-        listOf("xxxximmages","xxxximmages"),
+        images = listOf("https://m.media-amazon.com/images/M/MV5BODcxMzhkODktYWI5MC00YzE0LWE1ZTEtZjE2ODQ5NzYxOTQzXkEyXkFqcGdeQXVyMjI0MjMwMzQ@.",
+            "https://m.media-amazon.com/images/M/MV5BMTA3YTQ3N2ItMGQ4NS00MjFjLTgxNjEtMTYxN2Q4ZWEzZjdlXkEyXkFqcGdeQXVyMzU0NzkwMDg@.",
+            "https://m.media-amazon.com/images/M/MV5BMTQwMDY1MDMzMV5BMl5BanBnXkFtZTgwMTQ3Njg1MTE@.",
+            "https://m.media-amazon.com/images/M/MV5BMWRiN2RlYzItNzE4Ni00MzNlLThkMGUtNTVkYTgzYjhkZjY4XkEyXkFqcGdeQXVyMTIxMzMzMzE@."),
         "4.9"),
 
     Movie(
@@ -58,7 +67,10 @@ fun getMovies (): List<Movie>{
         "Tuija Halonen, Siiri Angerkoski, Kalle Viherpuu",
         "Add a Plot",
         "https://m.media-amazon.com/images/M/MV5BNDMxYzVlMWQtMmFkOC00NmNmLTg5MGQtOTNkOTRkMWRiOTdlXkEyXkFqcGdeQXVyMTIxMzMzMzE@.",
-        listOf("xxxximmages","xxxximmages"),
+        images = listOf("https://m.media-amazon.com/images/M/MV5BODcxMzhkODktYWI5MC00YzE0LWE1ZTEtZjE2ODQ5NzYxOTQzXkEyXkFqcGdeQXVyMjI0MjMwMzQ@.",
+            "https://m.media-amazon.com/images/M/MV5BMTA3YTQ3N2ItMGQ4NS00MjFjLTgxNjEtMTYxN2Q4ZWEzZjdlXkEyXkFqcGdeQXVyMzU0NzkwMDg@.",
+            "https://m.media-amazon.com/images/M/MV5BMTQwMDY1MDMzMV5BMl5BanBnXkFtZTgwMTQ3Njg1MTE@.",
+            "https://m.media-amazon.com/images/M/MV5BMWRiN2RlYzItNzE4Ni00MzNlLThkMGUtNTVkYTgzYjhkZjY4XkEyXkFqcGdeQXVyMTIxMzMzMzE@."),
         "5.9"
     ),
         Movie(
@@ -70,7 +82,10 @@ fun getMovies (): List<Movie>{
             "Vasilis Avlonitis, Takis Miliadis, etc",
             "A spirited wife tries to keep her husband's matchmaking and introduction agency afloat--while in the meantime--her daughter is ready to walk down the aisle with an affluent young heir. Have they struck gold or is this a beautiful dream?",
             "https://m.media-amazon.com/images/M/MV5BZTE2YTU1ZjAtM2RlNy00ZTJlLTg3ZjEtNmQwZDE0MTBjYzNlXkEyXkFqcGdeQXVyNDE5MTU2MDE@.",
-            listOf("xxxximmages","xxxximmages"),
+            images = listOf("https://m.media-amazon.com/images/M/MV5BODcxMzhkODktYWI5MC00YzE0LWE1ZTEtZjE2ODQ5NzYxOTQzXkEyXkFqcGdeQXVyMjI0MjMwMzQ@.",
+                "https://m.media-amazon.com/images/M/MV5BMTA3YTQ3N2ItMGQ4NS00MjFjLTgxNjEtMTYxN2Q4ZWEzZjdlXkEyXkFqcGdeQXVyMzU0NzkwMDg@.",
+                "https://m.media-amazon.com/images/M/MV5BMTQwMDY1MDMzMV5BMl5BanBnXkFtZTgwMTQ3Njg1MTE@.",
+                "https://m.media-amazon.com/images/M/MV5BMWRiN2RlYzItNzE4Ni00MzNlLThkMGUtNTVkYTgzYjhkZjY4XkEyXkFqcGdeQXVyMTIxMzMzMzE@."),
             "4.9"),
 
         Movie(
@@ -82,7 +97,10 @@ fun getMovies (): List<Movie>{
             "Tuija Halonen, Siiri Angerkoski, Kalle Viherpuu",
             "Add a Plot",
             "https://m.media-amazon.com/images/M/MV5BNDMxYzVlMWQtMmFkOC00NmNmLTg5MGQtOTNkOTRkMWRiOTdlXkEyXkFqcGdeQXVyMTIxMzMzMzE@.",
-            listOf("xxxximmages","xxxximmages"),
+            images = listOf("https://m.media-amazon.com/images/M/MV5BODcxMzhkODktYWI5MC00YzE0LWE1ZTEtZjE2ODQ5NzYxOTQzXkEyXkFqcGdeQXVyMjI0MjMwMzQ@.",
+                "https://m.media-amazon.com/images/M/MV5BMTA3YTQ3N2ItMGQ4NS00MjFjLTgxNjEtMTYxN2Q4ZWEzZjdlXkEyXkFqcGdeQXVyMzU0NzkwMDg@.",
+                "https://m.media-amazon.com/images/M/MV5BMTQwMDY1MDMzMV5BMl5BanBnXkFtZTgwMTQ3Njg1MTE@.",
+                "https://m.media-amazon.com/images/M/MV5BMWRiN2RlYzItNzE4Ni00MzNlLThkMGUtNTVkYTgzYjhkZjY4XkEyXkFqcGdeQXVyMTIxMzMzMzE@."),
             "5.9"
         ),
         Movie(
@@ -94,7 +112,10 @@ fun getMovies (): List<Movie>{
             "Vasilis Avlonitis, Takis Miliadis, etc",
             "A spirited wife tries to keep her husband's matchmaking and introduction agency afloat--while in the meantime--her daughter is ready to walk down the aisle with an affluent young heir. Have they struck gold or is this a beautiful dream?",
             "https://m.media-amazon.com/images/M/MV5BZTE2YTU1ZjAtM2RlNy00ZTJlLTg3ZjEtNmQwZDE0MTBjYzNlXkEyXkFqcGdeQXVyNDE5MTU2MDE@.",
-            listOf("xxxximmages","xxxximmages"),
+            images = listOf("https://m.media-amazon.com/images/M/MV5BODcxMzhkODktYWI5MC00YzE0LWE1ZTEtZjE2ODQ5NzYxOTQzXkEyXkFqcGdeQXVyMjI0MjMwMzQ@.",
+                "https://m.media-amazon.com/images/M/MV5BMTA3YTQ3N2ItMGQ4NS00MjFjLTgxNjEtMTYxN2Q4ZWEzZjdlXkEyXkFqcGdeQXVyMzU0NzkwMDg@.",
+                "https://m.media-amazon.com/images/M/MV5BMTQwMDY1MDMzMV5BMl5BanBnXkFtZTgwMTQ3Njg1MTE@.",
+                "https://m.media-amazon.com/images/M/MV5BMWRiN2RlYzItNzE4Ni00MzNlLThkMGUtNTVkYTgzYjhkZjY4XkEyXkFqcGdeQXVyMTIxMzMzMzE@."),
             "4.9"),
 
         Movie(
@@ -106,7 +127,10 @@ fun getMovies (): List<Movie>{
             "Tuija Halonen, Siiri Angerkoski, Kalle Viherpuu",
             "Add a Plot",
             "https://m.media-amazon.com/images/M/MV5BNDMxYzVlMWQtMmFkOC00NmNmLTg5MGQtOTNkOTRkMWRiOTdlXkEyXkFqcGdeQXVyMTIxMzMzMzE@.",
-            listOf("xxxximmages","xxxximmages"),
+            images = listOf("https://m.media-amazon.com/images/M/MV5BODcxMzhkODktYWI5MC00YzE0LWE1ZTEtZjE2ODQ5NzYxOTQzXkEyXkFqcGdeQXVyMjI0MjMwMzQ@.",
+                "https://m.media-amazon.com/images/M/MV5BMTA3YTQ3N2ItMGQ4NS00MjFjLTgxNjEtMTYxN2Q4ZWEzZjdlXkEyXkFqcGdeQXVyMzU0NzkwMDg@.",
+                "https://m.media-amazon.com/images/M/MV5BMTQwMDY1MDMzMV5BMl5BanBnXkFtZTgwMTQ3Njg1MTE@.",
+                "https://m.media-amazon.com/images/M/MV5BMWRiN2RlYzItNzE4Ni00MzNlLThkMGUtNTVkYTgzYjhkZjY4XkEyXkFqcGdeQXVyMTIxMzMzMzE@."),
             "5.9"
         )
     )
