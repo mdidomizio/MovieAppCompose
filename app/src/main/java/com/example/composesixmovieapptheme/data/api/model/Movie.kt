@@ -1,4 +1,4 @@
-package com.example.composesixmovieapptheme.model
+package com.example.composesixmovieapptheme.data.api.model
 
 data class Movie(val id: String,
                  val title: String,

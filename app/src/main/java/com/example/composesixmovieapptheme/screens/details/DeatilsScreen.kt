@@ -17,8 +17,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import coil.compose.rememberImagePainter
-import com.example.composesixmovieapptheme.model.Movie
-import com.example.composesixmovieapptheme.model.getMovies
+import com.example.composesixmovieapptheme.data.api.model.Movie
+import com.example.composesixmovieapptheme.data.api.model.getMovies
 import com.example.composesixmovieapptheme.widgets.MovieRow
 
 @SuppressLint("UnusedMaterialScaffoldPaddingParameter")

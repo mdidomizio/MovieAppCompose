@@ -26,8 +26,8 @@ import androidx.compose.ui.unit.sp
 import coil.compose.rememberAsyncImagePainter
 import coil.compose.rememberImagePainter
 import coil.transform.CircleCropTransformation
-import com.example.composesixmovieapptheme.model.Movie
-import com.example.composesixmovieapptheme.model.getMovies
+import com.example.composesixmovieapptheme.data.api.model.Movie
+import com.example.composesixmovieapptheme.data.api.model.getMovies
 
 @Preview
 @Composable
